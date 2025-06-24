@@ -9,7 +9,6 @@ To discover open ports on devices within the local network and understand exposu
 
 ## 🛠 Tools Used:
 - Nmap (`v7.94`)
-- Optional: Wireshark
 
 ---
 
